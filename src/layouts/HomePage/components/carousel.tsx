@@ -1,9 +1,8 @@
 import { ReturnBook } from "./ReturnBook";
 import { useEffect, useState } from "react";
 import BookModel from "../../../models/BookModel";
-import { SpinnerLoading } from "../../utils/SpinnerLoading";
+import { SpinnerLoading } from "../../utils/SpinnerLoading"; 
 import { Link } from "react-router-dom";
-;
 
 export const Carousel = () => {
 
