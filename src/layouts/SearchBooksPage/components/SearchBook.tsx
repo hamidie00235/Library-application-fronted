@@ -1,5 +1,5 @@
 // import { Link } from "react-router-dom";
-import BookModel from "../../../Images/BookModel";
+import BookModel from "../../../models/BookModel";
 
 export const SearchBook: React.FC<{ book: BookModel }> = (props) => {
     return (
